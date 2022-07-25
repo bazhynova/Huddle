@@ -26,7 +26,7 @@ body {
 header::before {
     content: "";
     position: absolute;
-    background: url(../images/bg-desktop.svg) 0 0 / 100% no-repeat;
+    background: url(images/bg-desktop.svg) 0 0 / 100% no-repeat;
     width: 100%;
     height: 100%;
 }
@@ -83,7 +83,7 @@ p {
     header::before {
         content: "";
     position: absolute;
-    background: url(../images/bg-mobile.svg) 0 0 / 100% no-repeat;
+    background: url(images/bg-mobile.svg) 0 0 / 100% no-repeat;
     width: 100%;
     height: 100%;
     }
